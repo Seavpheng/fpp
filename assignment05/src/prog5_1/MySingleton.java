@@ -1,7 +1,8 @@
 package prog5_1;
 
 public class MySingleton {
-	
+
+	//add method
 	public static MySingleton instance;
 	
 	private MySingleton() {
